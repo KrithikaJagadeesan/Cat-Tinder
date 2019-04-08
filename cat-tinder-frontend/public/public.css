@@ -1,0 +1,18 @@
+* {
+font-family: Arial, Helvetica, Sans-Serif;
+margin-left: 2%;
+margin-right: 2%;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background: red;
+    border-radius: 5px;
+    align-items: right;
+    padding: 8px 32px;
+}
